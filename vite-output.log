@@ -1,0 +1,124 @@
+
+> mahi@0.0.1 dev
+> vite dev --host
+
+
+  [32m[1mVITE[22m v5.4.14[39m  [2mready in [0m[1m1824[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.0.156:[1m5173[22m/[39m
+14:43:41 [vite-plugin-svelte] C:/Users/BERHA/Documents/New project/mahi/src/routes/pages/Saved.svelte:3:13 Saved has unused export property 'component'. If it is for external reference only, please consider using `export const component`
+14:43:42 [vite-plugin-svelte] C:/Users/BERHA/Documents/New project/mahi/src/routes/pages/Saved.svelte:3:13 Saved has unused export property 'component'. If it is for external reference only, please consider using `export const component`
+[2m14:43:44[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/lib/components/SlideMenu.svelte[22m
+[2m14:44:18[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/lib/components/SlideMenu.svelte[22m
+[2m14:44:21[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/TopNav.svelte, /src/lib/components/TopNav.svelte?svelte&type=style&lang.css[22m
+[2m14:45:29[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/TopNav.svelte, /src/lib/components/TopNav.svelte?svelte&type=style&lang.css[22m
+[2m14:45:32[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Women.svelte[22m
+[2m14:45:32[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33mdevalue[32m[39m
+[2m14:45:32[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+14:45:33 [vite-plugin-svelte] C:/Users/BERHA/Documents/New project/mahi/src/routes/pages/Saved.svelte:3:13 Saved has unused export property 'component'. If it is for external reference only, please consider using `export const component`
+[2m14:45:46[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Women.svelte[22m
+14:45:48 [vite-plugin-svelte] C:/Users/BERHA/Documents/New project/mahi/src/routes/pages/Saved.svelte:3:13 Saved has unused export property 'component'. If it is for external reference only, please consider using `export const component`
+[2m14:45:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Men.svelte[22m
+[2m14:46:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Men.svelte[22m
+[2m14:46:13[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/CartDrawer.svelte, /src/lib/components/TryOnSheet.svelte, /src/lib/components/FlowSheet.svelte, /src/lib/components/Toast.svelte, /src/routes/pages/Home.svelte, /src/lib/components/DressCard.svelte, /src/routes/pages/Product.svelte, /src/routes/pages/Matching.svelte, /src/routes/pages/CoupleSets.svelte, /src/routes/+page.svelte, /src/routes/pages/FamilySets.svelte, /src/lib/components/BottomNav.svelte, /src/routes/pages/Weddings.svelte, /src/routes/pages/Custom.svelte, /src/routes/pages/Fit.svelte, /src/routes/pages/Account.svelte, /src/routes/pages/Saved.svelte, /src/routes/pages/Track.svelte, /src/routes/pages/Checkout.svelte, /src/routes/pages/About.svelte, /src/routes/pages/Success.svelte, /src/lib/components/SupportPageShell.svelte, /src/lib/components/SlideMenu.svelte, /src/lib/components/TopNav.svelte, /src/routes/pages/Women.svelte, /src/routes/pages/Men.svelte[22m
+[2m14:46:31[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/SlideMenu.svelte[22m
+[2m14:46:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/TopNav.svelte[22m
+[2m14:47:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/SlideMenu.svelte, /src/lib/components/SlideMenu.svelte?svelte&type=style&lang.css[22m
+[2m14:47:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/SlideMenu.svelte, /src/lib/components/SlideMenu.svelte?svelte&type=style&lang.css[22m
+[2m16:32:14[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/app.css[22m
+[2m16:43:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Product.svelte, /src/routes/pages/Product.svelte?svelte&type=style&lang.css[22m
+[2m16:45:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Product.svelte, /src/routes/pages/Product.svelte?svelte&type=style&lang.css[22m
+[2m19:53:00[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/routes/pages/Product.svelte[22m
+[2m19:54:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/routes/pages/Product.svelte[22m
+[2m20:01:56[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Product.svelte, /src/routes/pages/Product.svelte?svelte&type=style&lang.css[22m
+[2m20:04:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/CartDrawer.svelte, /src/lib/components/TryOnSheet.svelte, /src/lib/components/FlowSheet.svelte, /src/lib/components/Toast.svelte, /src/routes/pages/Home.svelte, /src/lib/components/DressCard.svelte, /src/routes/pages/Matching.svelte, /src/routes/pages/CoupleSets.svelte, /src/routes/+page.svelte, /src/routes/pages/FamilySets.svelte, /src/lib/components/BottomNav.svelte, /src/routes/pages/Weddings.svelte, /src/routes/pages/Custom.svelte, /src/routes/pages/Fit.svelte, /src/routes/pages/Account.svelte, /src/routes/pages/Saved.svelte, /src/routes/pages/Track.svelte, /src/routes/pages/Checkout.svelte, /src/routes/pages/About.svelte, /src/routes/pages/Success.svelte, /src/lib/components/SupportPageShell.svelte, /src/lib/components/TopNav.svelte, /src/routes/pages/Women.svelte, /src/routes/pages/Men.svelte, /src/lib/components/SlideMenu.svelte, /src/routes/pages/Product.svelte[22m
+[2m20:05:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Product.svelte, /src/routes/pages/Product.svelte?svelte&type=style&lang.css[22m
+[2m20:07:32[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Product.svelte, /src/routes/pages/Product.svelte?svelte&type=style&lang.css[22m
+[2m20:10:30[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/0.js[22m
+[2m20:10:30[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/1.js[22m
+[2m20:10:30[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/2.js[22m
+[2m20:10:30[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/app.js[22m
+[2m20:10:30[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/server/internal.js[22m
+[2m20:10:30[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/matchers.js[22m
+[2m20:11:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/CartDrawer.svelte, /src/lib/components/TryOnSheet.svelte, /src/lib/components/FlowSheet.svelte, /src/lib/components/Toast.svelte, /src/routes/pages/Home.svelte, /src/lib/components/DressCard.svelte, /src/routes/pages/Matching.svelte, /src/routes/pages/CoupleSets.svelte, /src/routes/+page.svelte, /src/routes/pages/FamilySets.svelte, /src/lib/components/BottomNav.svelte, /src/routes/pages/Weddings.svelte, /src/routes/pages/Custom.svelte, /src/routes/pages/Fit.svelte, /src/routes/pages/Account.svelte, /src/routes/pages/Saved.svelte, /src/routes/pages/Track.svelte, /src/routes/pages/Checkout.svelte, /src/routes/pages/About.svelte, /src/routes/pages/Success.svelte, /src/lib/components/SupportPageShell.svelte, /src/lib/components/TopNav.svelte, /src/routes/pages/Women.svelte, /src/routes/pages/Men.svelte, /src/lib/components/SlideMenu.svelte, /src/routes/pages/Product.svelte[22m
+[2m20:11:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/BottomNav.svelte[22m
+[2m20:11:30[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/SupportPageShell.svelte[22m
+[2m20:11:38[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Home.svelte[22m
+[2m20:11:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Matching.svelte[22m
+[2m20:11:58[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Saved.svelte[22m
+[2m20:12:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/DressCard.svelte[22m
+[2m20:12:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Weddings.svelte[22m
+[2m20:12:23[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/0.js[22m
+[2m20:12:23[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/1.js[22m
+[2m20:12:23[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/app.js[22m
+[2m20:12:23[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/2.js[22m
+[2m20:12:23[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/server/internal.js[22m
+[2m20:12:23[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/matchers.js[22m
+[2m20:16:42[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/app.css[22m
+[2m20:18:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Home.svelte?svelte&type=style&lang.css[22m
+[2m20:19:38[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Product.svelte?svelte&type=style&lang.css[22m
+[2m20:20:02[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Weddings.svelte?svelte&type=style&lang.css[22m
+[2m20:20:13[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/SupportPageShell.svelte?svelte&type=style&lang.css[22m
+[2m20:20:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Women.svelte[22m
+[2m20:20:29[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Men.svelte[22m
+[2m20:21:05[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/0.js[22m
+[2m20:21:05[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/1.js[22m
+[2m20:21:05[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/app.js[22m
+[2m20:21:05[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/2.js[22m
+[2m20:21:05[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/server/internal.js[22m
+[2m20:21:05[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/matchers.js[22m
+[2m20:27:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/DressCard.svelte, /src/lib/components/DressCard.svelte?svelte&type=style&lang.css[22m
+[2m20:28:22[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/DressCard.svelte, /src/lib/components/DressCard.svelte?svelte&type=style&lang.css[22m
+[2m20:28:28[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/0.js[22m
+[2m20:28:28[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/1.js[22m
+[2m20:28:28[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/app.js[22m
+[2m20:28:28[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/2.js[22m
+[2m20:28:28[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/server/internal.js[22m
+[2m20:28:28[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/matchers.js[22m
+[2m20:34:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Product.svelte, /src/routes/pages/Product.svelte?svelte&type=style&lang.css[22m
+[2m20:35:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Product.svelte[22m
+[2m20:35:13[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/CartDrawer.svelte, /src/lib/components/TryOnSheet.svelte, /src/lib/components/FlowSheet.svelte, /src/lib/components/Toast.svelte, /src/routes/pages/Home.svelte, /src/routes/pages/Matching.svelte, /src/routes/pages/CoupleSets.svelte, /src/routes/+page.svelte, /src/routes/pages/FamilySets.svelte, /src/lib/components/BottomNav.svelte, /src/routes/pages/Weddings.svelte, /src/routes/pages/Custom.svelte, /src/routes/pages/Fit.svelte, /src/routes/pages/Account.svelte, /src/routes/pages/Saved.svelte, /src/routes/pages/Track.svelte, /src/routes/pages/Checkout.svelte, /src/routes/pages/About.svelte, /src/routes/pages/Success.svelte, /src/lib/components/SupportPageShell.svelte, /src/lib/components/TopNav.svelte, /src/routes/pages/Women.svelte, /src/routes/pages/Men.svelte, /src/lib/components/SlideMenu.svelte, /src/routes/pages/Product.svelte, /src/lib/components/DressCard.svelte[22m
+[2m20:35:19[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/0.js[22m
+[2m20:35:19[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/1.js[22m
+[2m20:35:19[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/app.js[22m
+[2m20:35:19[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/2.js[22m
+[2m20:35:19[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/server/internal.js[22m
+[2m20:35:19[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/matchers.js[22m
+[2m20:38:02[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Product.svelte[22m
+[2m20:38:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/CoupleSets.svelte[22m
+[2m20:38:47[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/CoupleSets.svelte[22m
+[2m20:38:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/FamilySets.svelte[22m
+[2m20:39:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/FamilySets.svelte[22m
+[2m20:39:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/CartDrawer.svelte[22m
+[2m20:39:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/TryOnSheet.svelte[22m
+[2m20:40:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/About.svelte[22m
+[2m20:40:09[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Account.svelte[22m
+[2m20:40:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Track.svelte[22m
+[2m20:40:21[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Checkout.svelte[22m
+[2m20:40:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Success.svelte[22m
+[2m20:40:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Saved.svelte[22m
+[2m20:40:37[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Saved.svelte[22m
+[2m20:40:48[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/0.js[22m
+[2m20:40:48[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/1.js[22m
+[2m20:40:48[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/app.js[22m
+[2m20:40:48[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/2.js[22m
+[2m20:40:48[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/server/internal.js[22m
+[2m20:40:48[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/matchers.js[22m
+[2m20:42:22[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/+layout.svelte[22m
+[2m20:42:24[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/FlowSheet.svelte, /src/lib/components/FlowSheet.svelte?svelte&type=style&lang.css[22m
+[2m20:42:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/lib/components/CartDrawer.svelte, /src/lib/components/TryOnSheet.svelte, /src/lib/components/Toast.svelte, /src/routes/pages/Home.svelte, /src/routes/pages/Matching.svelte, /src/routes/+page.svelte, /src/lib/components/BottomNav.svelte, /src/routes/pages/Weddings.svelte, /src/routes/pages/Custom.svelte, /src/routes/pages/Fit.svelte, /src/routes/pages/Account.svelte, /src/routes/pages/Track.svelte, /src/routes/pages/Checkout.svelte, /src/routes/pages/About.svelte, /src/routes/pages/Success.svelte, /src/lib/components/SupportPageShell.svelte, /src/lib/components/TopNav.svelte, /src/routes/pages/Women.svelte, /src/routes/pages/Men.svelte, /src/lib/components/SlideMenu.svelte, /src/routes/pages/Product.svelte, /src/lib/components/DressCard.svelte, /src/routes/pages/CoupleSets.svelte, /src/routes/pages/FamilySets.svelte, /src/routes/pages/Saved.svelte[22m
+[2m20:42:48[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Home.svelte, /src/routes/pages/Home.svelte?svelte&type=style&lang.css[22m
+[2m20:43:44[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/pages/Home.svelte, /src/routes/pages/Home.svelte?svelte&type=style&lang.css[22m
+[2m20:43:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/0.js[22m
+[2m20:43:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/1.js[22m
+[2m20:43:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/app.js[22m
+[2m20:43:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/2.js[22m
+[2m20:43:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/server/internal.js[22m
+[2m20:43:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/matchers.js[22m
+[2m20:45:00[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/0.js[22m
+[2m20:45:00[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/1.js[22m
+[2m20:45:00[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/nodes/2.js[22m
+[2m20:45:00[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/app.js[22m
+[2m20:45:00[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/server/internal.js[22m
+[2m20:45:00[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.svelte-kit/generated/client/matchers.js[22m

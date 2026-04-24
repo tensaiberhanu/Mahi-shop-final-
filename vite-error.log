@@ -1,0 +1,235 @@
+SvelteKitError: Not found: /src/lib/components/SlideMenu.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+[2m14:43:44[22m [31m[1m[vite][22m[39m [31mError when evaluating SSR module /src/routes/+layout.svelte:
+|- Error: Failed to load url /src/lib/components/SlideMenu.svelte (resolved id: C:/Users/BERHA/Documents/New project/mahi/src/lib/components/SlideMenu.svelte) in C:/Users/BERHA/Documents/New project/mahi/src/routes/+layout.svelte. Does the file exist?
+    at loadAndTransform (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:51922:17)
+    at async instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52876:44)
+[39m
+Error: Failed to load url /src/lib/components/SlideMenu.svelte (resolved id: C:/Users/BERHA/Documents/New project/mahi/src/lib/components/SlideMenu.svelte) in C:/Users/BERHA/Documents/New project/mahi/src/routes/+layout.svelte. Does the file exist?
+    at loadAndTransform (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:51922:17)
+    at async instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52876:44) {
+  code: 'ERR_LOAD_URL'
+}
+Error: Failed to load url /src/lib/components/SlideMenu.svelte (resolved id: C:/Users/BERHA/Documents/New project/mahi/src/lib/components/SlideMenu.svelte) in C:/Users/BERHA/Documents/New project/mahi/src/routes/+layout.svelte. Does the file exist?
+    at loadAndTransform (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:51922:17)
+    at async instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52876:44) {
+  code: 'ERR_LOAD_URL'
+}
+Error: Failed to load url /src/lib/components/SlideMenu.svelte (resolved id: C:/Users/BERHA/Documents/New project/mahi/src/lib/components/SlideMenu.svelte) in C:/Users/BERHA/Documents/New project/mahi/src/routes/+layout.svelte. Does the file exist?
+    at loadAndTransform (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:51922:17)
+    at async instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52876:44) {
+  code: 'ERR_LOAD_URL'
+}
+SvelteKitError: Not found: /src/lib/components/TopNav.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+[2m14:44:21[22m [31m[1m[vite][22m[39m [31mError when evaluating SSR module /src/routes/+layout.svelte:
+|- Error: Failed to load url /src/lib/components/TopNav.svelte (resolved id: C:/Users/BERHA/Documents/New project/mahi/src/lib/components/TopNav.svelte) in C:/Users/BERHA/Documents/New project/mahi/src/routes/+layout.svelte. Does the file exist?
+    at loadAndTransform (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:51922:17)
+    at async instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52876:44)
+[39m
+Error: Failed to load url /src/lib/components/TopNav.svelte (resolved id: C:/Users/BERHA/Documents/New project/mahi/src/lib/components/TopNav.svelte) in C:/Users/BERHA/Documents/New project/mahi/src/routes/+layout.svelte. Does the file exist?
+    at loadAndTransform (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:51922:17)
+    at async instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52876:44) {
+  code: 'ERR_LOAD_URL'
+}
+SvelteKitError: Not found: /src/routes/pages/Women.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+[2m14:45:33[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to load url ./pages/Women.svelte (resolved id: ./pages/Women.svelte) in C:/Users/BERHA/Documents/New project/mahi/src/routes/+page.svelte. Does the file exist?
+[2m14:45:34[22m [31m[1m[vite][22m[39m [31mError when evaluating SSR module /src/routes/+page.svelte:
+|- Error: Failed to load url ./pages/Women.svelte (resolved id: ./pages/Women.svelte) in C:/Users/BERHA/Documents/New project/mahi/src/routes/+page.svelte. Does the file exist?
+    at loadAndTransform (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:51922:17)
+    at async instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52876:44)
+[39m
+Error: Failed to load url ./pages/Women.svelte (resolved id: ./pages/Women.svelte) in C:/Users/BERHA/Documents/New project/mahi/src/routes/+page.svelte. Does the file exist?
+    at loadAndTransform (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:51922:17)
+    at async instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52876:44) {
+  code: 'ERR_LOAD_URL'
+}
+SvelteKitError: Not found: /src/routes/pages/Men.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+SvelteKitError: Not found: /src/lib/components/SlideMenu.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+SvelteKitError: Not found: /src/lib/components/SlideMenu.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+[2m14:47:17[22m [31m[1m[vite][22m[39m [31mError when evaluating SSR module /src/routes/+layout.svelte:
+|- Error: Failed to load url /src/lib/components/SlideMenu.svelte (resolved id: C:/Users/BERHA/Documents/New project/mahi/src/lib/components/SlideMenu.svelte) in C:/Users/BERHA/Documents/New project/mahi/src/routes/+layout.svelte. Does the file exist?
+    at loadAndTransform (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:51922:17)
+    at async instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52876:44)
+[39m
+Error: Failed to load url /src/lib/components/SlideMenu.svelte (resolved id: C:/Users/BERHA/Documents/New project/mahi/src/lib/components/SlideMenu.svelte) in C:/Users/BERHA/Documents/New project/mahi/src/routes/+layout.svelte. Does the file exist?
+    at loadAndTransform (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:51922:17)
+    at async instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52876:44) {
+  code: 'ERR_LOAD_URL'
+}
+Error: Failed to load url /src/lib/components/SlideMenu.svelte (resolved id: C:/Users/BERHA/Documents/New project/mahi/src/lib/components/SlideMenu.svelte) in C:/Users/BERHA/Documents/New project/mahi/src/routes/+layout.svelte. Does the file exist?
+    at loadAndTransform (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:51922:17)
+    at async instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52876:44) {
+  code: 'ERR_LOAD_URL'
+}
+SvelteKitError: Not found: /src/routes/pages/Product.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+SvelteKitError: Not found: /src/routes/pages/Product.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+[2m19:53:00[22m [31m[1m[vite][22m[39m [31mError when evaluating SSR module /src/routes/+page.svelte:
+|- Error: Failed to load url /src/routes/pages/Product.svelte (resolved id: C:/Users/BERHA/Documents/New project/mahi/src/routes/pages/Product.svelte) in C:/Users/BERHA/Documents/New project/mahi/src/routes/+page.svelte. Does the file exist?
+    at loadAndTransform (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:51922:17)
+    at async instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52876:44)
+[39m
+Error: Failed to load url /src/routes/pages/Product.svelte (resolved id: C:/Users/BERHA/Documents/New project/mahi/src/routes/pages/Product.svelte) in C:/Users/BERHA/Documents/New project/mahi/src/routes/+page.svelte. Does the file exist?
+    at loadAndTransform (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:51922:17)
+    at async instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52876:44) {
+  code: 'ERR_LOAD_URL'
+}
+SvelteKitError: Not found: /src/routes/pages/Product.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+SvelteKitError: Not found: /src/routes/pages/Product.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+SvelteKitError: Not found: /src/lib/components/DressCard.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+SvelteKitError: Not found: /src/lib/components/DressCard.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+SvelteKitError: Not found: /src/routes/pages/CoupleSets.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+SvelteKitError: Not found: /src/routes/pages/FamilySets.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+SvelteKitError: Not found: /src/routes/pages/Saved.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+SvelteKitError: Not found: /src/lib/components/FlowSheet.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+SvelteKitError: Not found: /src/lib/components/FlowSheet.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+SvelteKitError: Not found: /src/routes/pages/Home.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+SvelteKitError: Not found: /src/routes/pages/Home.svelte
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:544:13)
+    at resolve (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:344:5)
+    at init_promise.#options.hooks.handle (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:85:56)
+    at Module.respond (eval at instantiateModule (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:52965:24), <anonymous>:341:40) {
+  status: 404,
+  text: 'Not Found'
+}
+file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/@sveltejs/kit/src/core/config/index.js:19
+		throw new Error(`${relative} does not exist`);
+		^
+
+Error: src\app.html does not exist
+    at load_template (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/@sveltejs/kit/src/core/config/index.js:19:9)
+    at write_server (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/@sveltejs/kit/src/core/sync/write_server.js:130:14)
+    at Module.server (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/@sveltejs/kit/src/core/sync/sync.js:77:2)
+    at FSWatcher.<anonymous> (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/@sveltejs/kit/src/exports/vite/dev/index.js:343:9)
+    at FSWatcher.emit (node:events:518:28)
+    at file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:44416:16
+    at Map.forEach (<anonymous>)
+    at Timeout._onTimeout (file:///C:/Users/BERHA/Documents/New%20project/mahi/node_modules/vite/dist/node/chunks/dep-CHZK6zbr.js:44414:30)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+
+Node.js v22.17.0
